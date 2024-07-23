@@ -76,7 +76,12 @@ I mostly work with Python, Django & Flask Frameworks and Cloud based technologie
   <a href="https://www.atlassian.com/software/jira/" target="_blank" >
     <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" title="jira" width="70" height="70"/>
   </a>
-    
+
+### Frontend Technologies
+  <a href="https://www.atlassian.com/software/bitbucket/" target="_blank" >
+    <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" title="angular" height="70"/>
+  </a>
+
 </p>
 
 
